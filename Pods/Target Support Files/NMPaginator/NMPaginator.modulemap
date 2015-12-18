@@ -1,0 +1,6 @@
+framework module NMPaginator {
+  umbrella header "NMPaginator-umbrella.h"
+
+  export *
+  module * { export * }
+}
